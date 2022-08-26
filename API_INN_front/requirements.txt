@@ -1,0 +1,15 @@
+click
+colorama
+gunicorn
+dnspython
+Flask
+Flask-Cors
+importlib-metadata
+itsdangerous
+Jinja2
+MarkupSafe
+pymongo
+six
+typing_extensions
+Werkzeug
+zipp
